@@ -1,0 +1,1 @@
+<p><b>Hello, im tet widget</b></p>
